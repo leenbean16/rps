@@ -1,0 +1,69 @@
+#rps{
+  font-family: 'Droid Sans Mono', monospace !important;
+  text-align: center;
+
+}
+
+#jumbo{
+  background: white;
+  margin-top:30px;
+  margin-bottom:30px;
+  border-radius: 0px;
+  border:5px solid #000;
+  padding:0px;
+}
+
+p {
+  font-size: 20px;
+}
+
+h1.titletext{
+  font-size: 35px !important;
+}
+
+.icons {
+  font-size: 6em;
+  cursor: pointer;
+  margin: 0.25em;
+}
+
+.computer {
+  margin: 3em;
+}
+
+table {
+  margin: auto;
+}
+
+th {
+  font-size: 2em;
+}
+
+td {
+  font-size: 1.5em;
+}
+
+td, td {
+  padding: .50em;
+}
+
+.startbutton button{
+  background: #fff;
+  font-size: 1.5em;
+  font-family: 'Droid Sans Mono', monospace !important;
+  margin-top: 30px;
+}
+
+.startbutton button:hover {
+  background: #000;
+  color: #fff;
+}
+
+.nameinput{
+  border:2px solid #000;
+  width: 200px;
+  margin-top: 50px;
+  height:30px;
+  font-size: 17px;
+  font-family: 'Droid Sans Mono', monospace !important;
+}
